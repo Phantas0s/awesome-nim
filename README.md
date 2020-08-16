@@ -263,6 +263,7 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 * [GLAD](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs. [MIT]
 * [nim-glm](https://github.com/stavenko/nim-glm) - Port of the popular glm C++ library to Nim. [MIT]
 * [enu](https://github.com/dsrw/enu) - A Logo-like DSL for Godot, implemented in Nim. [MIT]
+* [paranim](https://github.com/paranim/paranim) - Game engine avoiding too much abstraction. [MIT]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
